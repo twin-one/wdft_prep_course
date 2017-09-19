@@ -1,0 +1,27 @@
+.box1{ 
+    background-color: darkgrey;
+    color:white;
+    width: 200px;
+    padding: 10px 20px;
+    border: 2px dotted;
+    margin: 30px
+
+}
+
+
+
+#img1 img{
+width: 150px;
+height: auto;
+padding: 10px;
+background-color: lightgrey;
+margin: 10px 40px;
+}
+
+#img2 img{
+width: 150px;
+height: auto;
+border: 10px lightgrey solid;
+margin: 10px 40px;
+
+}
