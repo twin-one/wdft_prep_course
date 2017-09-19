@@ -19,11 +19,11 @@ for (var i=1; i<101; i++){
 */
 //Excercise #2
 
-for (var i = 1; i < 9; i++ ){
-    if (i % 2 == 0){
-        console.log(" # # # #");
-    }
-    else {
-        console.log("# # # # ")
-    }
+var output = ""
+
+for (var i=0; i<8; i++){
+if (i % 2 == 0){output = output + " "}
+    output = output + "# # # # \n"
 }
+
+console.log(output)
