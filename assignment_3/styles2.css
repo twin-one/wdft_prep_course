@@ -1,0 +1,35 @@
+.redbox{
+width: 150px;
+height: 150px;
+background-color: red;
+padding: 0px;
+
+
+}
+
+.a1{
+    display: inline-block;
+    margin: 0px 20px 20px 0px;
+
+    
+}
+
+.a2{
+    float: left;
+    margin: 0px 25px 20px 0px
+}
+
+.a3{ position: absolute;
+    top: 355px;
+    left: 8px;
+}
+
+.a4{ position: absolute;
+    top: 355px;
+    left: 183px;
+}
+
+.a5{ position: absolute;
+    top: 355px;
+    left: 358px;
+}
